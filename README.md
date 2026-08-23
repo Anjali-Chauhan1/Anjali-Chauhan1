@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Anjali-Chauhan1&theme=dark&hide_border=false&timezone=Asia/Kolkata" alt="GitHub Streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=Anjali-Chauhan1&theme=dark&hide_border=false&timezone=Asia/Kolkata" alt="GitHub Streak" />
 &nbsp;&nbsp;&nbsp;
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anjali-Chauhan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
